@@ -53,10 +53,10 @@ The Logistic Regression model achieved the highest accuracy (0.9912) and highest
 - Run the notebook `model-development.ipynb` for detailed execution
 
 ## Contributors
-- **Melvin Oswald Sahaya Anbarasu** ([oswald@udel.edu](mailto:oswald@udel.edu))
-- **Nii Otu Tackie-Otoo** ([niiotu@udel.edu](mailto:niiotu@udel.edu))
-- **Annamalai Muthupalaniappan** ([annamala@udel.edu](mailto:annamala@udel.edu))
-- **Atharva Vichare** ([atharvav@udel.edu](mailto:atharvav@udel.edu))
+- Melvin Oswald Sahaya Anbarasu ([oswald@udel.edu](mailto:oswald@udel.edu))
+- Nii Otu Tackie-Otoo ([niiotu@udel.edu](mailto:niiotu@udel.edu))
+- Annamalai Muthupalaniappan ([annamala@udel.edu](mailto:annamala@udel.edu))
+- Atharva Vichare ([atharvav@udel.edu](mailto:atharvav@udel.edu))
 
 ## Acknowledgments
 - University of Delaware
